@@ -56,13 +56,40 @@ I'm a network engineer passionate about building & testing new things and learni
 
 ## GitHub Stats
 
-<a href="https://github.com/yannicklabs">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yannicklabs&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/yannicklabs">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yannicklabs&layout=compact&theme=radical&langs_count=8&card_width=320" />
-</a>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=yannicklabs&show_icons=true&theme=radical"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=yannicklabs&show_icons=true&theme=default"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=yannicklabs&show_icons=true" height=200 />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yannicklabs&layout=compact&theme=radical&langs_count=8&card_width=320"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yannicklabs&layout=compact&theme=default&langs_count=8&card_width=320"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yannicklabs&layout=compact&langs_count=8&card_width=320" height=200 />
+</picture>
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yannicklabs&theme=radical)](https://git.io/streak-stats)
+<picture>
+  <source
+    srcset="https://streak-stats.demolab.com/?user=yannicklabs&theme=radical"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://streak-stats.demolab.com/?user=yannicklabs&theme=default"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://streak-stats.demolab.com/?user=yannicklabs" />
+</picture>
