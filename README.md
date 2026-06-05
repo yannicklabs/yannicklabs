@@ -50,3 +50,13 @@ I'm a network engineer passionate about building & testing new things and learni
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## GitHub Stats
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yannicklabs&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yannicklabs&layout=compact&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=yannicklabs&theme=radical)](https://git.io/streak-stats)
