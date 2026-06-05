@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=yannicklabs&color=blueviolet)
 # Hi, I'm Yannick 👋
 
 I'm a network engineer passionate about building & testing new things and learning new technologies.
@@ -55,8 +56,13 @@ I'm a network engineer passionate about building & testing new things and learni
 
 ## GitHub Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yannicklabs&show_icons=true&theme=radical)
+<a href="https://github.com/yannicklabs">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yannicklabs&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/yannicklabs">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yannicklabs&layout=compact&theme=radical&langs_count=8&card_width=320" />
+</a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yannicklabs&layout=compact&theme=radical)
+---
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=yannicklabs&theme=radical)](https://git.io/streak-stats)
